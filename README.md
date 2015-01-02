@@ -1,4 +1,4 @@
-AssettoCorsaDevLibs
+###AssettoCorsaDevLibs
 ===================
 
 Some Dev Libraries to aid AC app development 
@@ -6,7 +6,9 @@ Some Dev Libraries to aid AC app development
 Adds ac functions into python to aid development in IDEs
 
 
-To install copy acDevLibs into "PythonXX\Lib\site-packages\"
+
+**To install copy acDevLibs into "PythonXX\Lib\site-packages\"**
+
 
 
 Then where you have "import ac" put:
@@ -16,6 +18,7 @@ Then where you have "import ac" put:
 	except ImportError:
 		from acDevLibs.acDev import ac as ac
 ***
+
 
 	
 For "import acsys" put:
