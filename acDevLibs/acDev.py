@@ -1,3 +1,11 @@
+"""
+Feel free to do what you want with this :)
+
+It is essentially a transcription of all of the functions within the AC module to aid devs using IDE's
+Methods with ??? above have incomplete declerations
+
+Turnemator13
+"""
 class acFuncs:
 
     def addButton(self, Object, Text):

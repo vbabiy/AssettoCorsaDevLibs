@@ -1,3 +1,11 @@
+"""
+Feel free to do what you want with this :)
+
+It is essentially a transcription of all of the functions within the ACSYS module to aid devs using IDE's
+
+Turnemator13
+"""
+
 class aeroDec:
     CD = ""
     CL_Front = ""
