@@ -1,9 +1,8 @@
 ###AssettoCorsaDevLibs
 ***
 
-Some Dev Libraries to aid AC app development 
-
-Adds ac functions into python to aid development in IDEs
+Some Dev Libraries to aid AC app development.
+Adds ac functions into python to aid development in IDEs.
 
 
 ##Installing
