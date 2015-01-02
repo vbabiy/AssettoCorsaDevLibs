@@ -11,23 +11,23 @@ To install copy acDevLibs into "PythonXX\Lib\site-packages\"
 
 Then where you have "import ac" put:
 ***
-try:
+	try:
 
-    import ac
+		import ac
 	
-except ImportError:
+	except ImportError:
 
-    from acDevLibs.acDev import ac as ac
+		from acDevLibs.acDev import ac as ac
 ***
 
 	
 For "import acsys" put:
 ***
-try:
-
-    import acsys
+	try:
 	
-except ImportError:
+		import acsys
+	
+	except ImportError:
 
-    from acDevLibs.acsysDev import acsys as acsys
+		from acDevLibs.acsysDev import acsys as acsys
 ***
