@@ -126,7 +126,7 @@ class acFuncs:
     def getCarRealTimeLeaderboardPosition(self, carID):
         return 0
 
-    def getCarState(self, carID, infoId , param=""):
+    def getCarState(self, carID, infoID , param=""):
         return 0
 
     def getCarsCount(self):
